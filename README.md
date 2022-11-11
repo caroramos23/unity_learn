@@ -51,10 +51,10 @@
   ![image](https://user-images.githubusercontent.com/93277765/200443786-90f7c511-aa41-42f0-baf8-3802df53fd2d.png)
 
 * Lección 3
-  * > [Tutorial](Carolina_Prototype3.unitypackage
+  * > [Tutorial](Carolina_Prototype3.unitypackage)
   * > [Laboratorio](Carolina_V0.2.unitypackage)
   * > [Desafío](Carolina_Challenge3.unitypackage)
-  * > [Prueba])
+  * > [Prueba]
   ![image](https://user-images.githubusercontent.com/93277765/200443518-6c9b6e45-a800-422e-950b-5fae650a69be.png)
   ![image](https://user-images.githubusercontent.com/93277765/200443545-2d9abce9-0a14-41e7-99c7-3f62ec753d50.png)
 
