@@ -23,14 +23,19 @@
 
 ## Introducción
 
-- Nombre del proyecto
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia
-- Personajes
-- Reglas de Juego.
-- Pantallas de Juego
-- Plan de creación de VideoJuego.
+- Nombre del proyecto: Tiziu
+- Objetivo: Es guiar a Tiziu (Animal) desde principio y hasta el final del nivel atravesando los espacios diseñados en cada uno utilizando diferentes obstaculos, para poder pasar al siguiente nivel.
+- Plataforma:PC Género: Clasificación: Diferentes edades Personajes: Escenario:
+- Historia:Terminar una mision para poder pasar a otra mision.
+- Personajes: Tiziu
+- Reglas de Juego: Si choca con algun objeto en color rojo, pierde una vida, si sale del camino y se cae pierde una vida, si lo aplasta algun objeto, pierde una vida, gana el nivel cuando termine el recorrido del esenario.
+- Pantallas de Juego:
+![image](https://user-images.githubusercontent.com/93277765/202821965-f7fbb31b-50b1-45b0-82e3-b619c6708ca3.png)
+![image](https://user-images.githubusercontent.com/93277765/202822005-04646438-322e-4446-8aa1-1e755ea7e6b9.png)
+![image](https://user-images.githubusercontent.com/93277765/202822052-dbc9fb92-e0d9-40f4-82d1-729caeb09fab.png)
+![image](https://user-images.githubusercontent.com/93277765/202822090-90d91917-5a4b-4d79-ac1c-390ccf6ec938.png)
+
+- Plan de creación de VideoJuego:
 
 ## Código Fuente
 
